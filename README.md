@@ -3,7 +3,7 @@
 ### 建议使用 uni.App 快速开发 多段共用
  
 ### HBuilder X + uni.App + vue2
-
+<!-- 记得替换AppId or UniId  -->
 ### 扫码体验一下吧
  
 ![image](二维码.jpg) 
